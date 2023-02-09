@@ -1,3 +1,3 @@
-# Cloud-Computing-Project-1
+Introduction: Most people would assume that rural areas (areas with a very low population density) have a large number of households that earn less than 10k. But could it be the same for suburban areas as well? Metropolitan cities like SF and LA have a large number of "rich" households but poverty is rampant in those cities too. We are going to analyze this in the notebook.
 
-Performed data analysis to check if states that have a higher percentage of metropolitan cities have a higher percentage of houses that cost under 10k.
+Hypothesis- Congressional districts with a high population density have a larger ratio of households earning more than 200K AND less than 10k in comparison with districts that have a lower population density.
