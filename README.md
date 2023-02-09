@@ -2,4 +2,5 @@ Introduction: Most people would assume that rural areas (areas with a very low p
 
 Hypothesis- Congressional districts with a high population density have a larger ratio of households earning more than 200K AND less than 10k in comparison with districts that have a lower population density.
 
+References:
 https://github.com/theatlantic/citylab-data/blob/master/citylab-congress/methodology.md
